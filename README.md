@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKhilRaghav0
-- 👀 I’m interested in Distro Hopping 
+- 👀 I’m interested in python, go, irc 
 - 🌱 I’m currently learning .. 
-- 💞️ I’m looking to collaborate on .. Ubuntu Touch 
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...akhil@nikhilraghav.codes 
 
 <!---
