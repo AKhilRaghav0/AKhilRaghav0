@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKhilRaghav0
+## Hi, I'm Akhil Raghav :wave: 
 - 👀 I’m interested in python, go, lua
 - 🌱 I’m currently learning .. 
 - 💞️ I’m looking to collaborate on .. Minetest
