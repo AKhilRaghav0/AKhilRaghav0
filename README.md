@@ -25,7 +25,6 @@ class AkhilRaghav():
     self.name = "Akhil Raghav";
     self.username = "akhilraghav0";
     self.location = "Gurugram, India";
-    self.twitter = "@akhil15";
     self.web = "https://akhil.raghavnikhil.com";
   
   def __str__(self):
