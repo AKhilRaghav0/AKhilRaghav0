@@ -9,12 +9,10 @@ Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
 
@@ -35,7 +33,7 @@ if __name__ == '__main__':
 
 <!--
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/user/gp95m93zta1rc2g1chy7tyi4q">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
