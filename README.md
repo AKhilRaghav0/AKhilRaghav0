@@ -7,7 +7,7 @@ Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
 <br>
 
 <p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AKhilraghav0&label=Profile%20views&color=0e75b6&style=flat" alt="AKhilRaghav0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AKhilraghav0&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="AKhilRaghav0" /> </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
@@ -42,7 +42,7 @@ if __name__ == '__main__':
 -->
 
 ## My Statistics
-
+<!--
 <br/>
 <p align="left">
   <a href="https://akhil.raghavnikhil.com">
@@ -51,11 +51,23 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
-[![AkhilRaghavs' Activity Graph](https://activity-graph.herokuapp.com/graph?username=akhilraghav0&custom_title=Akhil%20Raghav's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://akhilraghav.rocks)
-
+-->
+<!-- [![AkhilRaghavs' Activity Graph](https://activity-graph.herokuapp.com/graph?username=akhilraghav0&custom_title=Akhil%20Raghav's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://akhilraghav.rocks)
+-->
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AKhilRaghav0&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AKhilRaghav0&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AkhilRaghav0&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 
+</p>
+
+<!-- <p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+</p> -->
 
