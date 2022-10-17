@@ -9,7 +9,7 @@ Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
 <p>
 <p align="left"> </p>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AKhilraghav0&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="AKhilRaghav0">
+  <img src="https://komarev.com/ghpvc/?username=AkhilRaghav0&style=for-the-badge&color=brightgreen" alt="AKhilRaghav0">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
