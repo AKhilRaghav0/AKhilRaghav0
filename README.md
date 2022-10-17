@@ -52,4 +52,10 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![AkhilRaghavs' Activity Graph](https://activity-graph.herokuapp.com/graph?username=akhilraghav0&custom_title=Akhil%20Raghav's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://akhil.raghavnikhil.com)
+[![AkhilRaghavs' Activity Graph](https://activity-graph.herokuapp.com/graph?username=akhilraghav0&custom_title=Akhil%20Raghav's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://akhilraghav.rocks)
+
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+
+
+
+
