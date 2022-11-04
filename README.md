@@ -72,3 +72,6 @@ if __name__ == '__main__':
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
 </p> -->
 
+<!--START_SECTION:activity-->
+
+
