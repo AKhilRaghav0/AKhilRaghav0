@@ -12,6 +12,7 @@ Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
   <img src="https://img.shields.io/github/followers/AKhilRaghav0?label=Followers&style=for-the-badge&color=pink" alt="GitHub Badge"></a>
   <img src="https://komarev.com/ghpvc/?username=AkhilRaghav0&style=for-the-badge&color=33cccc" alt="AKhilRaghav0">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_11-1793D1?style=for-the-badge&logo=windows11&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
