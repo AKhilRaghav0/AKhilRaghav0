@@ -73,7 +73,8 @@ if __name__ == '__main__':
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
 </p> -->
-
+## Recent Activities
+---
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/AKhilRaghav0/MacOS_remote/pull/4) in [AKhilRaghav0/MacOS_remote](https://github.com/AKhilRaghav0/MacOS_remote)
