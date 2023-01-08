@@ -77,11 +77,11 @@ if __name__ == '__main__':
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AKhilRaghav0/windows_remote/pull/2) in [AKhilRaghav0/windows_remote](https://github.com/AKhilRaghav0/windows_remote)
-2. ❗️ Opened issue [#1](https://github.com/Arch3xpert/udemy/issues/1) in [Arch3xpert/udemy](https://github.com/Arch3xpert/udemy)
-3. ❗️ Opened issue [#1](https://github.com/Arch3xpert/MacOS-Rdp/issues/1) in [Arch3xpert/MacOS-Rdp](https://github.com/Arch3xpert/MacOS-Rdp)
-4. 🎉 Merged PR [#8](https://github.com/AKhilRaghav0/MacOS_remote/pull/8) in [AKhilRaghav0/MacOS_remote](https://github.com/AKhilRaghav0/MacOS_remote)
-5. 🎉 Merged PR [#7](https://github.com/AKhilRaghav0/MacOS_remote/pull/7) in [AKhilRaghav0/MacOS_remote](https://github.com/AKhilRaghav0/MacOS_remote)
+1. 🎉 Merged PR [#2](https://github.com/AKhilRaghav0/gcp_vps/pull/2) in [AKhilRaghav0/gcp_vps](https://github.com/AKhilRaghav0/gcp_vps)
+2. 🎉 Merged PR [#1](https://github.com/AKhilRaghav0/gcp_vps/pull/1) in [AKhilRaghav0/gcp_vps](https://github.com/AKhilRaghav0/gcp_vps)
+3. 🎉 Merged PR [#2](https://github.com/AKhilRaghav0/windows_remote/pull/2) in [AKhilRaghav0/windows_remote](https://github.com/AKhilRaghav0/windows_remote)
+4. ❗️ Opened issue [#1](https://github.com/Arch3xpert/udemy/issues/1) in [Arch3xpert/udemy](https://github.com/Arch3xpert/udemy)
+5. ❗️ Opened issue [#1](https://github.com/Arch3xpert/MacOS-Rdp/issues/1) in [Arch3xpert/MacOS-Rdp](https://github.com/Arch3xpert/MacOS-Rdp)
 <!--END_SECTION:activity-->
 
 
