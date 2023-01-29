@@ -70,9 +70,14 @@ if __name__ == '__main__':
 </p>
 
 <!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=AKhilRaghav0&repo=Links_to_drive">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=AKhilRaghav0&repo=gcp_vps">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=AKhilRaghav0&repo=MacOS_Remote">
 </p> -->
+
+
+
+
 ## Recent Activities
 ---
 
