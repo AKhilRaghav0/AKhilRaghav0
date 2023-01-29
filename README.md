@@ -19,6 +19,7 @@ Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
   <img src="https://img.shields.io/badge/Kotlin-a4c639?style=for-the-badge&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  
 </div>
 </p>
 
