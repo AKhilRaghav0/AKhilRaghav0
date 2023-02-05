@@ -85,11 +85,11 @@ if __name__ == '__main__':
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/stupidpika/pichuiscute-index/pull/2) in [stupidpika/pichuiscute-index](https://github.com/stupidpika/pichuiscute-index)
-2. 💪 Opened PR [#1](https://github.com/stupidpika/pichuiscute-index/pull/1) in [stupidpika/pichuiscute-index](https://github.com/stupidpika/pichuiscute-index)
-3. 🗣 Commented on [#1](https://github.com/Arch3xpert/MacOS-Rdp/issues/1) in [Arch3xpert/MacOS-Rdp](https://github.com/Arch3xpert/MacOS-Rdp)
-4. 🎉 Merged PR [#10](https://github.com/AKhilRaghav0/MacOS_remote/pull/10) in [AKhilRaghav0/MacOS_remote](https://github.com/AKhilRaghav0/MacOS_remote)
-5. 🎉 Merged PR [#2](https://github.com/AKhilRaghav0/gcp_vps/pull/2) in [AKhilRaghav0/gcp_vps](https://github.com/AKhilRaghav0/gcp_vps)
+1. ❗️ Closed issue [#3](https://github.com/AKhilRaghav0/Rewards_Action/issues/3) in [AKhilRaghav0/Rewards_Action](https://github.com/AKhilRaghav0/Rewards_Action)
+2. 💪 Opened PR [#2](https://github.com/stupidpika/pichuiscute-index/pull/2) in [stupidpika/pichuiscute-index](https://github.com/stupidpika/pichuiscute-index)
+3. 💪 Opened PR [#1](https://github.com/stupidpika/pichuiscute-index/pull/1) in [stupidpika/pichuiscute-index](https://github.com/stupidpika/pichuiscute-index)
+4. 🗣 Commented on [#1](https://github.com/Arch3xpert/MacOS-Rdp/issues/1) in [Arch3xpert/MacOS-Rdp](https://github.com/Arch3xpert/MacOS-Rdp)
+5. 🎉 Merged PR [#10](https://github.com/AKhilRaghav0/MacOS_remote/pull/10) in [AKhilRaghav0/MacOS_remote](https://github.com/AKhilRaghav0/MacOS_remote)
 <!--END_SECTION:activity-->
 
 
