@@ -51,14 +51,14 @@ if __name__ == '__main__':
 <!--
 <br/>
 <p align="left">
-  <a href="https://akhil.raghavnikhil.com">
+  <a href="https://www.akhilraghav.rocks">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=akhilraghav0&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilraghav0&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 -->
-<!-- [![AkhilRaghavs' Activity Graph](https://activity-graph.herokuapp.com/graph?username=akhilraghav0&custom_title=Akhil%20Raghav's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://akhilraghav.rocks)
+<!-- [![AkhilRaghavs' Activity Graph](https://activity-graph.herokuapp.com/graph?username=AKhilraghav0&custom_title=Akhil%20Raghav's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://akhilraghav.rocks)
 -->
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
