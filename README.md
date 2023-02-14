@@ -85,11 +85,11 @@ if __name__ == '__main__':
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
-2. ❗️ Closed issue [#3](https://github.com/AKhilRaghav0/Rewards_Action/issues/3) in [AKhilRaghav0/Rewards_Action](https://github.com/AKhilRaghav0/Rewards_Action)
-3. 💪 Opened PR [#2](https://github.com/stupidpika/pichuiscute-index/pull/2) in [stupidpika/pichuiscute-index](https://github.com/stupidpika/pichuiscute-index)
-4. 💪 Opened PR [#1](https://github.com/stupidpika/pichuiscute-index/pull/1) in [stupidpika/pichuiscute-index](https://github.com/stupidpika/pichuiscute-index)
-5. 🗣 Commented on [#1](https://github.com/Arch3xpert/MacOS-Rdp/issues/1) in [Arch3xpert/MacOS-Rdp](https://github.com/Arch3xpert/MacOS-Rdp)
+1. ❗️ Closed issue [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
+2. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
+3. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
+4. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
+5. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
 <!--END_SECTION:activity-->
 
 
