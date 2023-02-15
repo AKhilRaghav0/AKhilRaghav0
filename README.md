@@ -85,11 +85,11 @@ if __name__ == '__main__':
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
-2. ❗️ Reopened issue [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
-3. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
-4. ❗️ Closed issue [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
-5. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
+1. 🎉 Merged PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
+2. 💪 Opened PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
+3. 💪 Opened PR [#1](https://github.com/sangamsp9/ucf_ci/pull/1) in [sangamsp9/ucf_ci](https://github.com/sangamsp9/ucf_ci)
+4. 🗣 Commented on [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
+5. ❗️ Reopened issue [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
 <!--END_SECTION:activity-->
 
 
