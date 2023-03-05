@@ -85,11 +85,11 @@ if __name__ == '__main__':
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
-2. 💪 Opened PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
-3. 💪 Opened PR [#1](https://github.com/sangamsp9/ucf_ci/pull/1) in [sangamsp9/ucf_ci](https://github.com/sangamsp9/ucf_ci)
-4. ❗️ Closed issue [#3](https://github.com/AKhilRaghav0/Rewards_Action/issues/3) in [AKhilRaghav0/Rewards_Action](https://github.com/AKhilRaghav0/Rewards_Action)
-5. ❗️ Reopened issue [#1](https://github.com/AKhilRaghav0/Rewards_VPS/issues/1) in [AKhilRaghav0/Rewards_VPS](https://github.com/AKhilRaghav0/Rewards_VPS)
+1. 🗣 Commented on [#4](https://github.com/tuhinpal/Upier/issues/4) in [tuhinpal/Upier](https://github.com/tuhinpal/Upier)
+2. 🎉 Merged PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
+3. 💪 Opened PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
+4. 💪 Opened PR [#1](https://github.com/sangamsp9/ucf_ci/pull/1) in [sangamsp9/ucf_ci](https://github.com/sangamsp9/ucf_ci)
+5. ❗️ Closed issue [#3](https://github.com/AKhilRaghav0/Rewards_Action/issues/3) in [AKhilRaghav0/Rewards_Action](https://github.com/AKhilRaghav0/Rewards_Action)
 <!--END_SECTION:activity-->
 
 
