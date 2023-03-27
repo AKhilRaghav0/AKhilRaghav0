@@ -85,11 +85,11 @@ if __name__ == '__main__':
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/tuhinpal/Upier/issues/4) in [tuhinpal/Upier](https://github.com/tuhinpal/Upier)
-2. 🎉 Merged PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
-3. 💪 Opened PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
-4. 💪 Opened PR [#1](https://github.com/sangamsp9/ucf_ci/pull/1) in [sangamsp9/ucf_ci](https://github.com/sangamsp9/ucf_ci)
-5. ❗️ Closed issue [#3](https://github.com/AKhilRaghav0/Rewards_Action/issues/3) in [AKhilRaghav0/Rewards_Action](https://github.com/AKhilRaghav0/Rewards_Action)
+1. 🗣 Commented on [#19](https://github.com/gd3kr/BlenderGPT/issues/19) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+2. 🗣 Commented on [#14](https://github.com/gd3kr/BlenderGPT/issues/14) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+3. 🗣 Commented on [#4](https://github.com/tuhinpal/Upier/issues/4) in [tuhinpal/Upier](https://github.com/tuhinpal/Upier)
+4. 🎉 Merged PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
+5. 💪 Opened PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
 <!--END_SECTION:activity-->
 
 
