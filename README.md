@@ -21,6 +21,8 @@ Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
   
 </div>
+
+<img src="https://raw.githubusercontent.com/AKhilRaghav0/AKhilRaghav0/main/images/preview.gif">
 </p>
 
 ```python
