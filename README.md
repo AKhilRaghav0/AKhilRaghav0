@@ -87,11 +87,11 @@ if __name__ == '__main__':
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks/pull/2) in [zszazi/awesome-collection-of-google-colab-notebooks](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks)
-2. 🗣 Commented on [#19](https://github.com/gd3kr/BlenderGPT/issues/19) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
-3. 🗣 Commented on [#14](https://github.com/gd3kr/BlenderGPT/issues/14) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
-4. 🗣 Commented on [#4](https://github.com/tuhinpal/Upier/issues/4) in [tuhinpal/Upier](https://github.com/tuhinpal/Upier)
-5. 🎉 Merged PR [#1](https://github.com/AKhilRaghav0/ucf_ci/pull/1) in [AKhilRaghav0/ucf_ci](https://github.com/AKhilRaghav0/ucf_ci)
+1. 🗣 Commented on [#3](https://github.com/AKhilRaghav0/gcp_vps/issues/3) in [AKhilRaghav0/gcp_vps](https://github.com/AKhilRaghav0/gcp_vps)
+2. 💪 Opened PR [#2](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks/pull/2) in [zszazi/awesome-collection-of-google-colab-notebooks](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks)
+3. 🗣 Commented on [#19](https://github.com/gd3kr/BlenderGPT/issues/19) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+4. 🗣 Commented on [#14](https://github.com/gd3kr/BlenderGPT/issues/14) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+5. 🗣 Commented on [#4](https://github.com/tuhinpal/Upier/issues/4) in [tuhinpal/Upier](https://github.com/tuhinpal/Upier)
 <!--END_SECTION:activity-->
 
 
