@@ -87,11 +87,11 @@ if __name__ == '__main__':
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/AKhilRaghav0/gcp_vps/issues/3) in [AKhilRaghav0/gcp_vps](https://github.com/AKhilRaghav0/gcp_vps)
-2. 💪 Opened PR [#2](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks/pull/2) in [zszazi/awesome-collection-of-google-colab-notebooks](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks)
-3. 🗣 Commented on [#19](https://github.com/gd3kr/BlenderGPT/issues/19) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
-4. 🗣 Commented on [#14](https://github.com/gd3kr/BlenderGPT/issues/14) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
-5. 🗣 Commented on [#4](https://github.com/tuhinpal/Upier/issues/4) in [tuhinpal/Upier](https://github.com/tuhinpal/Upier)
+1. 🗣 Commented on [#429](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE/issues/429) in [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)
+2. 🗣 Commented on [#3](https://github.com/AKhilRaghav0/gcp_vps/issues/3) in [AKhilRaghav0/gcp_vps](https://github.com/AKhilRaghav0/gcp_vps)
+3. 💪 Opened PR [#2](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks/pull/2) in [zszazi/awesome-collection-of-google-colab-notebooks](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks)
+4. 🗣 Commented on [#19](https://github.com/gd3kr/BlenderGPT/issues/19) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+5. 🗣 Commented on [#14](https://github.com/gd3kr/BlenderGPT/issues/14) in [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT)
 <!--END_SECTION:activity-->
 
 
