@@ -32,8 +32,8 @@ class AkhilRaghav():
     self.name = "Akhil Raghav";
     self.username = "akhilraghav0";
     self.location = "Gurugram, India";
-    self.web = "https://akhilraghav.rocks";
-    self.mail = "akhil@akhilraghav.rocks";
+    self.web = "https://akhilraghav.us";
+    self.mail = "spam@akhilraghav.us";
   
   def __str__(self):
     return self.name
