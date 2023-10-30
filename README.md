@@ -25,20 +25,23 @@ Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
 <img src="https://raw.githubusercontent.com/AKhilRaghav0/AKhilRaghav0/main/images/preview.gif">
 </p>
 
-```python
-class AkhilRaghav():
-    
-  def __init__(self):
-    self.name = "Akhil Raghav";
-    self.username = "akhilraghav0";
-    self.location = "Gurugram, India";
-    self.web = "https://akhilraghav.us";
-    self.mail = "spam@akhilraghav.us";
-  
-  def __str__(self):
-    return self.name
-if __name__ == '__main__':
-    me = AkhilRaghav()
+```swift
+import Foundation
+
+class AkhilRaghav {
+    var name: String = "Akhil Raghav"
+    var username: String = "akhilraghav0"
+    var location: String = "Gurugram, India"
+    var web: String = "https://akhilraghav.us"
+    var mail: String = "spam@akhilraghav.us"
+
+    var description: String {
+        return name
+    }
+}
+
+let me = AkhilRaghav()
+
 ```
 
 <!--
