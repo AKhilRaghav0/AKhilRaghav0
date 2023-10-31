@@ -1,8 +1,12 @@
 <h1 align="center">
   <b>Akhil Raghav</b>
 </h1>
-
+Hi there, I'm Akhil Raghav 👋
 Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
+
+
+I'm a developer from India with a passion for building native, easy-to-use software. I specialize in Swift, SwiftUI, UIKit (programmatically) at the moment and have experience with C++, HTML, CSS, and basic experience with JavaScript & TensorflowJS.
+
 
 <br>
 
