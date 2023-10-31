@@ -1,9 +1,7 @@
 <h1 align="center">
   <b>Akhil Raghav</b>
 </h1>
-Hi there, I'm Akhil Raghav 👋
-Heya! I'm Akhil Raghav, a student currently living in Gurugram, India.
-
+<h3> Hi there, I'm Akhil Raghav 👋 </h3>
 
 I'm a developer from India with a passion for building native, easy-to-use software. I specialize in Swift, SwiftUI, UIKit (programmatically) at the moment and have experience with C++, HTML, CSS, and basic experience with JavaScript & TensorflowJS.
 
@@ -25,8 +23,9 @@ I'm a developer from India with a passion for building native, easy-to-use softw
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
   
 </div>
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/AKhilRaghav0/AKhilRaghav0/main/images/preview.gif">
+</div>
 </p>
 
 ```swift
