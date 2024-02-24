@@ -35,8 +35,8 @@ class AkhilRaghav {
     var name: String = "Akhil Raghav"
     var username: String = "akhilraghav0"
     var location: String = "Gurugram, India"
-    var web: String = "https://akhilraghav.us"
-    var mail: String = "spam@akhilraghav.us"
+    var web: String = "https://akhilraghav.cloud"
+    var mail: String = "work@akhilraghav.cloud"
 
     var description: String {
         return name
